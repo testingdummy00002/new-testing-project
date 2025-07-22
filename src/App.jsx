@@ -25,7 +25,10 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
-      <p className="bg-red-500 text-white p-4 rounded">
+      <p className="bg-green-500 text-white p-4 rounded">
+        Click on the Vite and React logos to learn more
+      </p>
+        <p className="bg-yellow-500 text-white p-4 rounded">
         Click on the Vite and React logos to learn more
       </p>
     </>
